@@ -1,4 +1,4 @@
-# apuracao_eleocoes
+# apuracao_eleicoes
 Apuração para presidente 
 
 python 3.7
